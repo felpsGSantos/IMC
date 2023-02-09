@@ -1,3 +1,3 @@
 ## Projeto Calculadora IMC
 
-<img src= "projetoIMC.png" alt="Print">
+<img src= "images/projetoIMC.png" alt="Print">
